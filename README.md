@@ -6,4 +6,6 @@
 - 📚 TBR: The Pragmatic Programmer: From Journeyman to Master - Thomas, Hunt
 #
 ### 📊Stats
-<img src="https://github-readme-stats.vercel.app/api?username=juliaklimas&&show_icons=true&title_color=ffffff&icon_color=6d06e1&text_color=999999&bg_color=191919">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=juliaklimas&&show_icons=true&title_color=ffffff&icon_color=6d06e1&text_color=999999&bg_color=191919">
+<br />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaklimas&layout=compact&theme=dark">
